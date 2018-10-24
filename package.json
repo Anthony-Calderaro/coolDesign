@@ -1,0 +1,24 @@
+{
+  "name": "coolDesign",
+  "version": "1.0.0",
+  "description": "To do: 1. Adjust the spacing between the spinner words 2. Make one go top-to-bottom and the second go bottom-to-top",
+  "main": "index.js",
+  "dependencies": {
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Calderaro/coolDesign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Calderaro/coolDesign/issues"
+  },
+  "homepage": "https://github.com/Anthony-Calderaro/coolDesign#readme"
+}

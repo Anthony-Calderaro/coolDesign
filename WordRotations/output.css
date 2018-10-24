@@ -1,0 +1,15 @@
+/*Body*/
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.sentence {
+  color: red;
+  font-size: 30px;
+  text-align: left;
+}
+.sentence div {
+  color: blue;
+}
+
+/*# sourceMappingURL=output.css.map */
