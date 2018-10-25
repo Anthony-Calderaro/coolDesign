@@ -10,4 +10,4 @@ To do:
 1. Adjust the spacing between the spinner words
 2. Make one go top-to-bottom and the second go bottom-to-top
 3. Keyboard shortcut practice for different applications Editors, Command Line, Multi-Tasking, Excel, Powerpoint, OpenOffice, Chrome, Firefox, Photoshop 
-4.  
+
